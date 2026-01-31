@@ -34,12 +34,4 @@ I enjoy building small projects, learning core programming concepts, and improvi
 
 ---
 
-### 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=majantaDon&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=majantaDon&layout=compact&theme=transparent)
-
-
-
----
-
 *I am continuously learning and improving, and I’m open to opportunities where I can grow as a developer.*
