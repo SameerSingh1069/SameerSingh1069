@@ -6,8 +6,8 @@ I enjoy building small projects, learning core programming concepts, and improvi
 ---
 
 ### 🔧 Technical Skills
-- **Languages:** Python, HTML
-- **Web Technologies:** HTML5, CSS (basic)
+- **Languages:** Python, HTML, C, C++, Javascritp
+- **Web Technologies:** HTML5, CSS (basic), C, C++ ,Javascritp
 - **Tools & Platforms:** Git, GitHub, Firebase, Google Cloud, VS Code
 
 ---
