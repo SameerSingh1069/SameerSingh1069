@@ -30,7 +30,7 @@ I enjoy building small projects, learning core programming concepts, and improvi
 ### 📫 Contact & Profiles
 - **LinkedIn:** https://www.linkedin.com/in/sameer-singh-9b751436b/
 - **Email:** sameersingh23209@gmail.com
-- **GitHub:** https://github.com/majantaDon
+- **GitHub:** https://github.com/SameerSingh1069
 
 ---
 
